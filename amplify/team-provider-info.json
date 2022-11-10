@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyauthtutorial-dev-95930-authRole",
+      "UnauthRoleArn": "arn:aws:iam::208999736843:role/amplify-amplifyauthtutorial-dev-95930-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::208999736843:role/amplify-amplifyauthtutorial-dev-95930-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-amplifyauthtutorial-dev-95930-deployment",
+      "UnauthRoleName": "amplify-amplifyauthtutorial-dev-95930-unauthRole",
+      "StackName": "amplify-amplifyauthtutorial-dev-95930",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:208999736843:stack/amplify-amplifyauthtutorial-dev-95930/52b47930-609b-11ed-acbb-02d4c0f0328c",
+      "AmplifyAppId": "d3qfluj464ip4z"
+    },
+    "categories": {
+      "auth": {
+        "amplifyauthtutorialce6a920f": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "amplifyauthtutorial": {}
+      },
+      "storage": {
+        "Songsdata": {}
+      }
+    }
+  }
+}

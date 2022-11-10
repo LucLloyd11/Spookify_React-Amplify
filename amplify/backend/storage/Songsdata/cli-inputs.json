@@ -1,0 +1,13 @@
+{
+  "resourceName": "Songsdata",
+  "policyUUID": "0c40487c",
+  "bucketName": "amplifyauthtutorial7306d6478117419291e28bc54524",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE"
+}
